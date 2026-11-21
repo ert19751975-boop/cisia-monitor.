@@ -1,0 +1,170 @@
+{
+  "rows": [
+    {
+      "id": "3877c88d39",
+      "cells": [
+        "CENT@UNI",
+        "Universita' degli studi di Trieste",
+        "FRIULI-VENEZIA GIULIA",
+        "TRIESTE",
+        "20/11/2026",
+        "71",
+        "BOOKINGS CLOSED",
+        "26/11/2026"
+      ],
+      "text": "CENT@UNI | Universita' degli studi di Trieste | FRIULI-VENEZIA GIULIA | TRIESTE | 20/11/2026 | 71 | BOOKINGS CLOSED | 26/11/2026",
+      "is_available": false
+    },
+    {
+      "id": "2ec401e726",
+      "cells": [
+        "CENT@UNI",
+        "Universita' degli studi di Messina",
+        "SICILIA",
+        "MESSINA",
+        "20/11/2026",
+        "60",
+        "BOOKINGS CLOSED",
+        "26/11/2026"
+      ],
+      "text": "CENT@UNI | Universita' degli studi di Messina | SICILIA | MESSINA | 20/11/2026 | 60 | BOOKINGS CLOSED | 26/11/2026",
+      "is_available": false
+    },
+    {
+      "id": "6e8d3d288a",
+      "cells": [
+        "CENT@HOME",
+        "Sapienza Università di Roma",
+        "LAZIO",
+        "ROMA",
+        "20/11/2026",
+        "0",
+        "BOOKINGS CLOSED",
+        "26/11/2026"
+      ],
+      "text": "CENT@HOME | Sapienza Università di Roma | LAZIO | ROMA | 20/11/2026 | 0 | BOOKINGS CLOSED | 26/11/2026",
+      "is_available": false
+    },
+    {
+      "id": "8d72f58b63",
+      "cells": [
+        "CENT@HOME",
+        "Politecnico di Milano",
+        "LOMBARDIA",
+        "MILANO",
+        "20/11/2026",
+        "0",
+        "BOOKINGS CLOSED",
+        "26/11/2026"
+      ],
+      "text": "CENT@HOME | Politecnico di Milano | LOMBARDIA | MILANO | 20/11/2026 | 0 | BOOKINGS CLOSED | 26/11/2026",
+      "is_available": false
+    },
+    {
+      "id": "828193e8a8",
+      "cells": [
+        "CENT@HOME",
+        "Università degli studi di Padova",
+        "VENETO",
+        "PADOVA",
+        "20/11/2026",
+        "0",
+        "BOOKINGS CLOSED",
+        "26/11/2026"
+      ],
+      "text": "CENT@HOME | Università degli studi di Padova | VENETO | PADOVA | 20/11/2026 | 0 | BOOKINGS CLOSED | 26/11/2026",
+      "is_available": false
+    },
+    {
+      "id": "417727eee5",
+      "cells": [
+        "CENT@HOME",
+        "Università degli studi di Teramo",
+        "ABRUZZO",
+        "TERAMO",
+        "20/11/2026",
+        "0",
+        "BOOKINGS CLOSED",
+        "26/11/2026"
+      ],
+      "text": "CENT@HOME | Università degli studi di Teramo | ABRUZZO | TERAMO | 20/11/2026 | 0 | BOOKINGS CLOSED | 26/11/2026",
+      "is_available": false
+    },
+    {
+      "id": "9ac0e6397d",
+      "cells": [
+        "CENT@HOME",
+        "Università Ca' Foscari Venezia",
+        "VENETO",
+        "VENEZIA",
+        "20/11/2026",
+        "0",
+        "BOOKINGS CLOSED",
+        "26/11/2026"
+      ],
+      "text": "CENT@HOME | Università Ca' Foscari Venezia | VENETO | VENEZIA | 20/11/2026 | 0 | BOOKINGS CLOSED | 26/11/2026",
+      "is_available": false
+    },
+    {
+      "id": "4a637f8863",
+      "cells": [
+        "CENT@UNI",
+        "Universita' degli studi di Messina",
+        "SICILIA",
+        "MESSINA",
+        "11/12/2026",
+        "31",
+        "AVAILABLE SEATS",
+        "17/12/2026"
+      ],
+      "text": "CENT@UNI | Universita' degli studi di Messina | SICILIA | MESSINA | 11/12/2026 | 31 | AVAILABLE SEATS | 17/12/2026",
+      "is_available": true
+    },
+    {
+      "id": "620f89b957",
+      "cells": [
+        "CENT@HOME",
+        "Sapienza Università di Roma",
+        "LAZIO",
+        "ROMA",
+        "11/12/2026",
+        "---",
+        "NOT LONGER AVAILABLE",
+        "17/12/2026"
+      ],
+      "text": "CENT@HOME | Sapienza Università di Roma | LAZIO | ROMA | 11/12/2026 | --- | NOT LONGER AVAILABLE | 17/12/2026",
+      "is_available": false
+    },
+    {
+      "id": "953b9da612",
+      "cells": [
+        "CENT@HOME",
+        "Politecnico di Milano",
+        "LOMBARDIA",
+        "MILANO",
+        "11/12/2026",
+        "---",
+        "NOT LONGER AVAILABLE",
+        "17/12/2026"
+      ],
+      "text": "CENT@HOME | Politecnico di Milano | LOMBARDIA | MILANO | 11/12/2026 | --- | NOT LONGER AVAILABLE | 17/12/2026",
+      "is_available": false
+    },
+    {
+      "id": "0182b88d4f",
+      "cells": [
+        "CENT@UNI",
+        "Politecnico di Torino",
+        "PIEMONTE",
+        "TORINO",
+        "06/01/2027",
+        "---",
+        "NOT LONGER AVAILABLE",
+        "12/01/2027"
+      ],
+      "text": "CENT@UNI | Politecnico di Torino | PIEMONTE | TORINO | 06/01/2027 | --- | NOT LONGER AVAILABLE | 12/01/2027",
+      "is_available": false
+    }
+  ],
+  "last_check": "21.11.2026 08:05 UTC"
+}
