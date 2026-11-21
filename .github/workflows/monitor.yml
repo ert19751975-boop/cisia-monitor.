@@ -5,6 +5,9 @@ on:
     - cron: "*/10 * * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   check:
     runs-on: ubuntu-latest
@@ -17,25 +20,18 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Restore monitor state
-        uses: actions/cache/restore@v4
-        id: cache-state
-        with:
-          path: cisia_state.json
-          key: cisia-state-${{ github.run_id }}
-          restore-keys: |
-            cisia-state-
-
       - name: Run CISIA check
         env:
           TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
           TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
         run: python check_cisia.py
 
-      - name: Save monitor state
-        if: always()
-        uses: actions/cache/save@v4
-        with:
-          path: cisia_state.json
-          key: cisia-state-${{ github.run_id }}
+      - name: Commit state if changed
+        run: |
+          if [ -f cisia_state.json ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add cisia_state.json
+            git diff --staged --quiet || (git commit -m "Update cisia_state.json [skip ci]" && git push)
+          fi
           
