@@ -106,18 +106,18 @@
       "is_available": false
     },
     {
-      "id": "4a637f8863",
+      "id": "3210e5b9a5",
       "cells": [
         "CENT@UNI",
         "Universita' degli studi di Messina",
         "SICILIA",
         "MESSINA",
         "11/12/2026",
-        "31",
+        "29",
         "AVAILABLE SEATS",
         "17/12/2026"
       ],
-      "text": "CENT@UNI | Universita' degli studi di Messina | SICILIA | MESSINA | 11/12/2026 | 31 | AVAILABLE SEATS | 17/12/2026",
+      "text": "CENT@UNI | Universita' degli studi di Messina | SICILIA | MESSINA | 11/12/2026 | 29 | AVAILABLE SEATS | 17/12/2026",
       "is_available": true
     },
     {
@@ -166,5 +166,5 @@
       "is_available": false
     }
   ],
-  "last_check": "21.11.2026 12:45 UTC"
+  "last_check": "21.11.2026 13:44 UTC"
 }
