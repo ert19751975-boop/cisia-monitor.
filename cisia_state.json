@@ -97,21 +97,21 @@
       "is_available": false
     },
     {
-      "id": "6a0efc1807",
-      "key": "CENT@HOME | Politecnico di Milano | LOMBARDIA | MILANO | 11/12/2026 | AVAILABLE SEATS | 17/12/2026",
+      "id": "953b9da612",
+      "key": "CENT@HOME | Politecnico di Milano | LOMBARDIA | MILANO | 11/12/2026 | --- | NOT LONGER AVAILABLE | 17/12/2026",
       "cells": [
         "CENT@HOME",
         "Politecnico di Milano",
         "LOMBARDIA",
         "MILANO",
         "11/12/2026",
-        "29",
-        "AVAILABLE SEATS",
+        "---",
+        "NOT LONGER AVAILABLE",
         "17/12/2026"
       ],
-      "text": "CENT@HOME | Politecnico di Milano | LOMBARDIA | MILANO | 11/12/2026 | 29 | AVAILABLE SEATS | 17/12/2026",
-      "is_available": true
+      "text": "CENT@HOME | Politecnico di Milano | LOMBARDIA | MILANO | 11/12/2026 | --- | NOT LONGER AVAILABLE | 17/12/2026",
+      "is_available": false
     }
   ],
-  "last_check": "23.11.2026 11:22 UTC"
+  "last_check": "23.11.2026 12:27 UTC"
 }
