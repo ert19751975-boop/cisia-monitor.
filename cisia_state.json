@@ -1,19 +1,19 @@
 {
   "rows": [
     {
-      "id": "525f5d1237",
-      "key": "CENT@HOME | Sapienza Università di Roma | LAZIO | ROMA | 20/11/2026 | 7 | BOOKINGS CLOSED | 26/11/2026",
+      "id": "2f8ffa8ed5",
+      "key": "CENT@HOME | Sapienza Università di Roma | LAZIO | ROMA | 20/11/2026 | 9 | BOOKINGS CLOSED | 26/11/2026",
       "cells": [
         "CENT@HOME",
         "Sapienza Università di Roma",
         "LAZIO",
         "ROMA",
         "20/11/2026",
-        "7",
+        "9",
         "BOOKINGS CLOSED",
         "26/11/2026"
       ],
-      "text": "CENT@HOME | Sapienza Università di Roma | LAZIO | ROMA | 20/11/2026 | 7 | BOOKINGS CLOSED | 26/11/2026",
+      "text": "CENT@HOME | Sapienza Università di Roma | LAZIO | ROMA | 20/11/2026 | 9 | BOOKINGS CLOSED | 26/11/2026",
       "is_available": false
     },
     {
@@ -129,5 +129,5 @@
       "is_available": false
     }
   ],
-  "last_check": "26.11.2026 16:34 UTC"
+  "last_check": "26.11.2026 17:32 UTC"
 }
