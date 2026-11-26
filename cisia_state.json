@@ -1,19 +1,19 @@
 {
   "rows": [
     {
-      "id": "6e8d3d288a",
-      "key": "CENT@HOME | Sapienza Università di Roma | LAZIO | ROMA | 20/11/2026 | 0 | BOOKINGS CLOSED | 26/11/2026",
+      "id": "525f5d1237",
+      "key": "CENT@HOME | Sapienza Università di Roma | LAZIO | ROMA | 20/11/2026 | 7 | BOOKINGS CLOSED | 26/11/2026",
       "cells": [
         "CENT@HOME",
         "Sapienza Università di Roma",
         "LAZIO",
         "ROMA",
         "20/11/2026",
-        "0",
+        "7",
         "BOOKINGS CLOSED",
         "26/11/2026"
       ],
-      "text": "CENT@HOME | Sapienza Università di Roma | LAZIO | ROMA | 20/11/2026 | 0 | BOOKINGS CLOSED | 26/11/2026",
+      "text": "CENT@HOME | Sapienza Università di Roma | LAZIO | ROMA | 20/11/2026 | 7 | BOOKINGS CLOSED | 26/11/2026",
       "is_available": false
     },
     {
@@ -111,7 +111,23 @@
       ],
       "text": "CENT@HOME | Politecnico di Milano | LOMBARDIA | MILANO | 11/12/2026 | --- | NOT LONGER AVAILABLE | 17/12/2026",
       "is_available": false
+    },
+    {
+      "id": "f289e11ac9",
+      "key": "CENT@HOME | Sapienza Università di Roma | LAZIO | ROMA | 06/01/2027 | --- | NOT LONGER AVAILABLE | 12/01/2027",
+      "cells": [
+        "CENT@HOME",
+        "Sapienza Università di Roma",
+        "LAZIO",
+        "ROMA",
+        "06/01/2027",
+        "---",
+        "NOT LONGER AVAILABLE",
+        "12/01/2027"
+      ],
+      "text": "CENT@HOME | Sapienza Università di Roma | LAZIO | ROMA | 06/01/2027 | --- | NOT LONGER AVAILABLE | 12/01/2027",
+      "is_available": false
     }
   ],
-  "last_check": "26.11.2026 15:23 UTC"
+  "last_check": "26.11.2026 16:34 UTC"
 }
