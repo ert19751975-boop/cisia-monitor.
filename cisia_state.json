@@ -1,86 +1,6 @@
 {
   "rows": [
     {
-      "id": "2f8ffa8ed5",
-      "key": "CENT@HOME | Sapienza Università di Roma | LAZIO | ROMA | 20/11/2026 | 9 | BOOKINGS CLOSED | 26/11/2026",
-      "cells": [
-        "CENT@HOME",
-        "Sapienza Università di Roma",
-        "LAZIO",
-        "ROMA",
-        "20/11/2026",
-        "9",
-        "BOOKINGS CLOSED",
-        "26/11/2026"
-      ],
-      "text": "CENT@HOME | Sapienza Università di Roma | LAZIO | ROMA | 20/11/2026 | 9 | BOOKINGS CLOSED | 26/11/2026",
-      "is_available": false
-    },
-    {
-      "id": "bd5ecaf5f8",
-      "key": "CENT@HOME | Politecnico di Milano | LOMBARDIA | MILANO | 20/11/2026 | 11 | BOOKINGS CLOSED | 26/11/2026",
-      "cells": [
-        "CENT@HOME",
-        "Politecnico di Milano",
-        "LOMBARDIA",
-        "MILANO",
-        "20/11/2026",
-        "11",
-        "BOOKINGS CLOSED",
-        "26/11/2026"
-      ],
-      "text": "CENT@HOME | Politecnico di Milano | LOMBARDIA | MILANO | 20/11/2026 | 11 | BOOKINGS CLOSED | 26/11/2026",
-      "is_available": false
-    },
-    {
-      "id": "828193e8a8",
-      "key": "CENT@HOME | Università degli studi di Padova | VENETO | PADOVA | 20/11/2026 | 0 | BOOKINGS CLOSED | 26/11/2026",
-      "cells": [
-        "CENT@HOME",
-        "Università degli studi di Padova",
-        "VENETO",
-        "PADOVA",
-        "20/11/2026",
-        "0",
-        "BOOKINGS CLOSED",
-        "26/11/2026"
-      ],
-      "text": "CENT@HOME | Università degli studi di Padova | VENETO | PADOVA | 20/11/2026 | 0 | BOOKINGS CLOSED | 26/11/2026",
-      "is_available": false
-    },
-    {
-      "id": "417727eee5",
-      "key": "CENT@HOME | Università degli studi di Teramo | ABRUZZO | TERAMO | 20/11/2026 | 0 | BOOKINGS CLOSED | 26/11/2026",
-      "cells": [
-        "CENT@HOME",
-        "Università degli studi di Teramo",
-        "ABRUZZO",
-        "TERAMO",
-        "20/11/2026",
-        "0",
-        "BOOKINGS CLOSED",
-        "26/11/2026"
-      ],
-      "text": "CENT@HOME | Università degli studi di Teramo | ABRUZZO | TERAMO | 20/11/2026 | 0 | BOOKINGS CLOSED | 26/11/2026",
-      "is_available": false
-    },
-    {
-      "id": "9ac0e6397d",
-      "key": "CENT@HOME | Università Ca' Foscari Venezia | VENETO | VENEZIA | 20/11/2026 | 0 | BOOKINGS CLOSED | 26/11/2026",
-      "cells": [
-        "CENT@HOME",
-        "Università Ca' Foscari Venezia",
-        "VENETO",
-        "VENEZIA",
-        "20/11/2026",
-        "0",
-        "BOOKINGS CLOSED",
-        "26/11/2026"
-      ],
-      "text": "CENT@HOME | Università Ca' Foscari Venezia | VENETO | VENEZIA | 20/11/2026 | 0 | BOOKINGS CLOSED | 26/11/2026",
-      "is_available": false
-    },
-    {
       "id": "620f89b957",
       "key": "CENT@HOME | Sapienza Università di Roma | LAZIO | ROMA | 11/12/2026 | --- | NOT LONGER AVAILABLE | 17/12/2026",
       "cells": [
@@ -129,5 +49,5 @@
       "is_available": false
     }
   ],
-  "last_check": "26.11.2026 22:26 UTC"
+  "last_check": "26.11.2026 23:27 UTC"
 }
