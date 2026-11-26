@@ -17,19 +17,19 @@
       "is_available": false
     },
     {
-      "id": "8d72f58b63",
-      "key": "CENT@HOME | Politecnico di Milano | LOMBARDIA | MILANO | 20/11/2026 | 0 | BOOKINGS CLOSED | 26/11/2026",
+      "id": "bd5ecaf5f8",
+      "key": "CENT@HOME | Politecnico di Milano | LOMBARDIA | MILANO | 20/11/2026 | 11 | BOOKINGS CLOSED | 26/11/2026",
       "cells": [
         "CENT@HOME",
         "Politecnico di Milano",
         "LOMBARDIA",
         "MILANO",
         "20/11/2026",
-        "0",
+        "11",
         "BOOKINGS CLOSED",
         "26/11/2026"
       ],
-      "text": "CENT@HOME | Politecnico di Milano | LOMBARDIA | MILANO | 20/11/2026 | 0 | BOOKINGS CLOSED | 26/11/2026",
+      "text": "CENT@HOME | Politecnico di Milano | LOMBARDIA | MILANO | 20/11/2026 | 11 | BOOKINGS CLOSED | 26/11/2026",
       "is_available": false
     },
     {
@@ -129,5 +129,5 @@
       "is_available": false
     }
   ],
-  "last_check": "26.11.2026 17:32 UTC"
+  "last_check": "26.11.2026 17:57 UTC"
 }
